@@ -9,4 +9,5 @@
 * [循环的介绍](xun-huan-de-jie-shao.md)
 * [字符串的使用](zi-fu-chuan-de-shi-yong.md)
 * [数组的使用](shu-zu-de-shi-yong.md)
+* [字典的使用](zi-dian-de-shi-yong.md)
 
