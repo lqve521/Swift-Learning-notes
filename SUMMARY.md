@@ -12,4 +12,6 @@
 * [字典的使用](zi-dian-de-shi-yong.md)
 * [元组的使用](yuan-zu-de-shi-yong.md)
 * [可选类型](ke-xuan-lei-xing.md)
+* [类型转化](lei-xing-zhuan-hua.md)
+* [函数的使用](han-shu-de-shi-yong.md)
 
