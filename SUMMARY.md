@@ -25,4 +25,5 @@
 * [闭包的使用](bi-bao-de-shi-yong.md)
 * [懒加载](lan-jia-zai.md)
 * [常见注释](chang-jian-zhu-shi.md)
+* [访问权限](fang-wen-quan-xian.md)
 
