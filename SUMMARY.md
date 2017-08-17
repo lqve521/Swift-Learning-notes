@@ -18,4 +18,6 @@
 * [结构体](jie-gou-ti.md)
 * [类的定义](lei-de-ding-yi.md)
 * [类的构造函数](lei-de-gou-zao-han-shu.md)
+* [类的析构函数](lei-de-xi-gou-han-shu.md)
+* [循环引用解决](xun-huan-yin-yong-jie-jue.md)
 
