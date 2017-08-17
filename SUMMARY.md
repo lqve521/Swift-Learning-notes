@@ -10,4 +10,6 @@
 * [字符串的使用](zi-fu-chuan-de-shi-yong.md)
 * [数组的使用](shu-zu-de-shi-yong.md)
 * [字典的使用](zi-dian-de-shi-yong.md)
+* [元组的使用](yuan-zu-de-shi-yong.md)
+* [可选类型](ke-xuan-lei-xing.md)
 
