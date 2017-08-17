@@ -15,4 +15,6 @@
 * [类型转化](lei-xing-zhuan-hua.md)
 * [函数的使用](han-shu-de-shi-yong.md)
 * [枚举类型](mei-ju-lei-xing.md)
+* [结构体](jie-gou-ti.md)
+* [类的定义](lei-de-ding-yi.md)
 
