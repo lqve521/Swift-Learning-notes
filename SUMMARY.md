@@ -14,4 +14,5 @@
 * [可选类型](ke-xuan-lei-xing.md)
 * [类型转化](lei-xing-zhuan-hua.md)
 * [函数的使用](han-shu-de-shi-yong.md)
+* [枚举类型](mei-ju-lei-xing.md)
 
