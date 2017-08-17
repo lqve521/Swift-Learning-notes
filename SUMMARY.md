@@ -7,4 +7,6 @@
 * [Swift中数据类型](swiftzhong-shu-ju-lei-xing.md)
 * [逻辑分支](luo-ji-fen-zhi.md)
 * [循环的介绍](xun-huan-de-jie-shao.md)
+* [字符串的使用](zi-fu-chuan-de-shi-yong.md)
+* [数组的使用](shu-zu-de-shi-yong.md)
 
