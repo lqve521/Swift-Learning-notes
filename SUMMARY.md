@@ -24,4 +24,5 @@
 * [协议的使用](xie-yi-de-shi-yong.md)
 * [闭包的使用](bi-bao-de-shi-yong.md)
 * [懒加载](lan-jia-zai.md)
+* [常见注释](chang-jian-zhu-shi.md)
 
