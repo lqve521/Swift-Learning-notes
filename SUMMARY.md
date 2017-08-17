@@ -17,4 +17,5 @@
 * [枚举类型](mei-ju-lei-xing.md)
 * [结构体](jie-gou-ti.md)
 * [类的定义](lei-de-ding-yi.md)
+* [类的构造函数](lei-de-gou-zao-han-shu.md)
 
